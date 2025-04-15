@@ -7,3 +7,4 @@ Libraries :
 
 Uses inbuilt Tokenized IMDB dataset for training and testing the model.
 
+How the code works and its information is included as comments in the main file.
