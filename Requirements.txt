@@ -1,0 +1,9 @@
+Objective : Make a basic NLP model for sentiment analysis categorizing the review as Negative or Positive.
+
+Libraries : 
+1. Numpy
+2. Matplotlib
+3. Tensorflow Keras
+
+Uses inbuilt Tokenized IMDB dataset for training and testing the model.
+
